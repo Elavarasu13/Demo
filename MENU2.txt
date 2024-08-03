@@ -1,0 +1,40 @@
+IDLY (1)                                 12.00
+DOSAI                                    55.00
+ROAST                                    60.00
+RAVA DOSAI                               60.00
+SPECIAL DOSAI                            65.00
+OOTHAPPAM                                50.00
+ONION DOSAI                              70.00
+ONION OOTHAPPAM                          70.00
+GHEE DOSAI                               70.00
+PODI DOSAI                               75.00
+MASALA DOSAI                             75.00
+ONION PODI DOSAI                         80.00
+ONION PODI OOTHAPPAM                     80.00
+POORI(2 NOS)                             60.00
+PONGAL                                   55.00
+IDIYAPPAM (2 NOS)                        50.00
+EXTRA SAMBAR                             30.00
+
+
+MEALS                                    120.00
+CURD RICE                                 50.00
+LEMON RICE                                50.00
+SAMBAR RICE                               50.00
+TOMATO RICE                               50.00
+VEG BIRIYANI                              70.00
+EXTRA SAMBAR                              30.00
+PAROTTA (2 NOS)                           70.00                                              
+CHAPPATHI (2 NOS)                         50.00
+
+
+KAALAN DOSAI                              70.00
+SPL RAVA DOSAI                            70.00
+PANEER BUTTER DOSAI                       70.00
+BUTTER DOSAI                              70.00
+CHILLI PAROTTA                            80.00
+KOTHU PAROTTA                             80.00
+MINI SET OOTHAPPAM                        90.00
+CASHEW RAVA DOSAI                        100.00
+CASHEW GHEE RAVA DOSAI                   100.00
+CHOLA POORI                              100.00
